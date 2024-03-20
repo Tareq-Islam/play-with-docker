@@ -1,0 +1,23 @@
+{
+  "name": "web_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tareq-Islam/play-with-docker.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Tareq Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tareq-Islam/play-with-docker/issues"
+  },
+  "homepage": "https://github.com/Tareq-Islam/play-with-docker#readme"
+}
